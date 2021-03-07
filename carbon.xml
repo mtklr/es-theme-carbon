@@ -75,7 +75,7 @@ Element color: Search and replace colors. Do not use spaces!
 			<fontPath>./art/Cabin-Bold.ttf</fontPath>
 			<fontSize>0.030</fontSize>
 			<pos>0.025 0.18</pos>
-			<size>0.950 0.73</size>
+			<size>0.950 0.74</size>
 			<alignment>center</alignment>
 			<horizontalMargin>0.01</horizontalMargin>
 			<forceUppercase>1</forceUppercase>
