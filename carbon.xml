@@ -14,6 +14,7 @@ Element color: Search and replace colors. Do not use spaces!
 	Purple	ac 0b ef
 	Teal	04 e9 f7
 	Pink	f5 02 97
+	Gray	1c 1c 1c
 -->
 <theme>
     <formatVersion>3</formatVersion>
