@@ -49,7 +49,7 @@ Element color: Search and replace colors. Do not use spaces!
 			<pos>0 1</pos>
 			<origin>0 1</origin>
 			<path>./art/bottom.png</path>
-			<color>8b0000c0</color>
+			<color>8b0000</color>
 		</image>
 
 		<image name="ControllerOverlay" extra="true">
